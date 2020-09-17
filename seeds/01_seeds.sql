@@ -2,7 +2,7 @@
 
 INSERT INTO users (name, email, password) VALUES ('David Jardine', 'djardine@mail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 INSERT INTO users (name, email, password) VALUES ('MC Escher', 'escher@mail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
-INSERT INTO users (name, email, password) VALUES ('Vincent Van-Gogh', 'pablo@mail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
+INSERT INTO users (name, email, password) VALUES ('Vincent Van-Gogh', 'gogh@mail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 INSERT INTO users (name, email, password) VALUES ('Claude Monet', 'monet@mail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
 -- properties table data:
